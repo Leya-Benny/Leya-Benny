@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Leya Benny 👋</h1>
 
-<!--
-**Leya-Benny/Leya-Benny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌐 Cybersecurity Explorer | 💻 Developer 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leya-Benny&color=blue" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+
+- 🎓 Cybersecurity Student @ Sault College, Canada  
+- 💻Co-op student @ MCC  
+
+---
+
+### 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚧 My Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛡️ **Phishing Detection App** | Uses Gmail + ML to detect phishing emails |
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leya-benny)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leyabenny10@gmail.com)
+
+---
