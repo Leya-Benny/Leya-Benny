@@ -1,18 +1,20 @@
 <h1 align="center">Hi there, I'm Leya Benny 👋</h1>
 
 <p align="center">
-  🌐 Cybersecurity Explorer | 💻 Developer 
+  🌐 Cybersecurity Enthusiast | 💻 Aspiring Developer | 🎯 Lifelong Learner
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leya-Benny&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Leya-Benny&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🎓 Cybersecurity Student @ Sault College, Canada  
-- 💻Co-op student @ MCC  
+- 🎓 Cybersecurity Student at **Sault College**, Canada  
+- 👩‍💻 Co-op Intern at **MCC (Micro Computer Consultancy)**
+- 📈 Always learning and improving through projects and real-world experience
 
 ---
 
@@ -28,17 +30,19 @@
 
 ---
 
-### 🚧 My Projects
+### 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🛡️ **Phishing Detection App** | Uses Gmail + ML to detect phishing emails |
+| Project                     | Description                                              |
+|----------------------------|----------------------------------------------------------|
+| 🛡️ **Phishing Detection App** | Web app using Gmail integration + Machine Learning to detect phishing emails |
+| 💬 **Train Ticket Booking System** | Simple web-based system to book train tickets using PHP and MySQL |
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leya-benny)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leyabenny10@gmail.com)
 
 ---
+
