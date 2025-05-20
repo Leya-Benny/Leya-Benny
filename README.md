@@ -36,7 +36,7 @@
 |----------------------------|----------------------------------------------------------|
 | 🛡️ **Phishing Detection App** | Web app using Gmail integration + Machine Learning to detect phishing emails |
 | 💬 **Train Ticket Booking System** | Simple web-based system to book train tickets using PHP and MySQL |
-
+| 🔐 **AI-Powered Firewall**   |  Python program that detects suspicious network packets using ML and prints alerts when found |
 ---
 
 ### 📫 Connect with Me
