@@ -26,6 +26,8 @@
 
 ### 🛠️ Skills & Tools
 
+### 🛠️ Skills & Tools
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
@@ -47,8 +49,6 @@
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-0A81D1?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)  
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)  
 [![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)
-
-
 
 
 
