@@ -22,6 +22,8 @@
 
 ### 🛠️ Skills & Tools
 
+### 🛠️ Skills & Tools
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -37,7 +39,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-0A81D1?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-[![Computer Forensics](https://img.shields.io/badge/-Computer_Forensics-4CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_forensics)
+[![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)
+
 
 
 
