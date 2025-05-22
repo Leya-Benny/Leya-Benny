@@ -42,7 +42,7 @@
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-0A81D1?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)  
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)  
 [![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)  
-[![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![VMware Workstation](https://img.shields.io/badge/-VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-pro.html)
 
 ---
 
