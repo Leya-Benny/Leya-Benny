@@ -52,7 +52,7 @@
 |----------------------------|--------------------------------------------------------------|
 | 🛡️ **Phishing Detection App** | Web app integrating Gmail API with Machine Learning to detect phishing emails |
 | 💬 **Train Ticket Booking System** | Simple web-based train ticket booking system using PHP and MySQL |
-| 🔐 **AI-Powered Firewall**   | Python program that detects suspicious network packets using ML and prints alerts |
+| 🔐 **AI-Powered Firewall**   |  Python program that uses machine learning to detect, block, and log malicious network packets in real-time while allowing safe traffic |
 | 🍽️ **Restaurant Menu App**    | Flutter-based app showcasing restaurant menu with categories, images, and item details |
 
 ---
