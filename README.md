@@ -40,6 +40,7 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-0388fc?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-0A81D1?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)  
+[![3ds Max](https://img.shields.io/badge/-3ds_Max-003A60?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/3ds-max/overview)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)  
 [![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)  
 [![VMware Workstation](https://img.shields.io/badge/-VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-pro.html)
