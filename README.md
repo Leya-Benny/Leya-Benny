@@ -48,4 +48,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leyabenny10@gmail.com)  
 
 ---
+### 📊 GitHub Stats
+
+![Leya Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leya-Benny&show_icons=true&theme=radical)
 
